@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    background-color: rgb(253, 161, 99);
+    text-align: center;
+}
+#mainbox{
+    border: 1px solid;
+    border-radius: 15px;
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(252, 190, 74);
+}
+input {
+    width: 20px;
+}
+label{
+    font-size: 2rem;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+button{
+    font-size: 1.5em;
+    text-align: center;
+    padding: 20px;
+    border: none;
+    padding: 30px;
+    margin: 5px;
+    background-color: rgb(2, 179, 17);
+    /* box-shadow: 10px; */
+    border-radius: 10px;
+}
+button:hover{
+    background-color:  rgb(3, 206, 20);
+}
+button:hover{
+    background-color:  rgb(3, 206, 20);
+}
+button:active{
+    background-color:  rgb(2, 238, 22);
+}
+ 
+#result{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 30px;
+    /* margin: 30px; */
+    /* width: 250px; */
+}
